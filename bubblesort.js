@@ -18,7 +18,6 @@ return array;
 
 
 function swap(first, next){
-  console.log('here');
   return [next, first];
 
 }
